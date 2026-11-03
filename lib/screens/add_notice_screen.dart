@@ -49,6 +49,8 @@ class _AddNoticeScreenState extends State<AddNoticeScreen> {
   }
 
   Future<void> _submitNotice() async {
+    if (_isSubmitting) return;
+
     if (!_formKey.currentState!.validate()) {
       return;
     }
