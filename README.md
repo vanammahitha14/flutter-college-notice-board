@@ -6,7 +6,8 @@ A modern, responsive, and cross-platform mobile application developed with **Flu
 
 ### 📲 Download Android App
 Download and install the latest release APK directly:
-👉 **[Download app-release.apk](release/app-release.apk)**
+- **Direct GitHub Release:** 👉 **[Download app-release.apk (v1.0.0)](https://github.com/vanammahitha14/flutter-college-notice-board/releases/download/v1.0.0/app-release.apk)**
+- **From Repository:** 👉 **[release/app-release.apk](release/app-release.apk)**
 
 ---
 
@@ -63,8 +64,8 @@ lib/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/college-notice-board.git
-   cd college-notice-board
+   git clone https://github.com/vanammahitha14/flutter-college-notice-board.git
+   cd flutter-college-notice-board
    ```
 
 2. **Install dependencies:**
