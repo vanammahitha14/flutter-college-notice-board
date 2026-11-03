@@ -13,14 +13,13 @@ void main() {
     SharedPreferences.setMockInitialValues({});
   });
 
-  testWidgets('College Notice Board home screen opens',
-      (WidgetTester tester) async {
+  testWidgets('College Notice Board home screen opens', (
+    WidgetTester tester,
+  ) async {
     await tester.pumpWidget(
       ChangeNotifierProvider(
         create: (_) => NoticeProvider()..loadNotices(),
-        child: const MaterialApp(
-          home: HomeScreen(),
-        ),
+        child: const MaterialApp(home: HomeScreen()),
       ),
     );
 
