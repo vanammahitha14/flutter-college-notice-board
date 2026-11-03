@@ -4,6 +4,12 @@ A modern, responsive, and cross-platform mobile application developed with **Flu
 
 ---
 
+### 📲 Download Android App
+Download and install the latest release APK directly:
+👉 **[Download app-release.apk](release/app-release.apk)**
+
+---
+
 ## 📌 Features
 
 - **📢 Dynamic Notice Feed:** Displays college notices with real-time updates and pull-to-refresh.
