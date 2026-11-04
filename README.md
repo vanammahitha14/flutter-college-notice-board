@@ -49,7 +49,7 @@ lib/
 | :--- | :--- | :--- |
 | **Vanam Mahitha** (Team Member 1)<br>GitHub: [@vanammahitha14](https://github.com/vanammahitha14)<br>`248x1a12e8@khitguntur.ac.in` | Frontend / UI & Navigation | • Home Screen (`home_screen.dart`)<br>• Notice Details Screen (`notice_detail_screen.dart`)<br>• Department Screen (`department_screen.dart`)<br>• Notice Card Widget (`notice_card.dart`)<br>• App routing & navigation |
 | **Tadiparthi Prasanna Lakshmi** (Team Member 2)<br>GitHub: [@prasannatadiparthi4-code](https://github.com/prasannatadiparthi4-code)<br>`248x1a12d6@khitguntur.ac.in` | Backend / State & Storage | • Notice Model & JSON handling (`notice.dart`)<br>• State management (`notice_provider.dart`)<br>• Local storage integration (`shared_preferences`)<br>• Provider data synchronization |
-| **Tenali Koushik** (Team Member 3)<br>`248x1a12e0@khitguntur.ac.in` | QA, Testing & Validation | • Add Notice form validation (`add_notice_screen.dart`)<br>• Automated unit & widget tests (`test/`)<br>• Robustness testing & Defect Log (`DEFECT_LOG.md`)<br>• Release packaging & CI/CD workflow |
+| **Tenali Koushik** (Team Member 3)<br>GitHub: [@koushiktenali11382006](https://github.com/koushiktenali11382006)<br>`248x1a12e0@khitguntur.ac.in` | QA, Testing & Validation | • Add Notice form validation (`add_notice_screen.dart`)<br>• Automated unit & widget tests (`test/`)<br>• Robustness testing & Defect Log (`DEFECT_LOG.md`)<br>• Release packaging & CI/CD workflow |
 
 ---
 
