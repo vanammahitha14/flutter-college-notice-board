@@ -22,6 +22,7 @@ This document records the robustness test cases, identified vulnerabilities, and
 - **Passed:** 5
 - **Failed:** 0
 - **Fixed & Verified:** 5
+- **QA & Defect Log Lead:** Tenali Koushik (`248x1a12e0@khitguntur.ac.in`)
 
 ---
 
