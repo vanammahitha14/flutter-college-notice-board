@@ -1,7 +1,7 @@
 # CampusConnect – College Notice Board
 
 A modern, responsive, and cross-platform mobile application developed with **Flutter** and **Dart** for colleges and universities. **CampusConnect** enables students and faculty to publish, browse, filter, and view important college notices with local offline persistence.
-
+https://github.com/vanammahitha14/flutter-college-notice-board/blob/e6021ed268a040131a42f6e21423dfe1711ffa22/Screenshot%202026-11-05%20115407.png
 ---
 
 ### 📲 Download Android App
