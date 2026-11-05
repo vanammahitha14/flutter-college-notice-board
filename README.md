@@ -2,7 +2,7 @@
 
 A modern, responsive, and cross-platform mobile application developed with **Flutter** and **Dart** for colleges and universities. **CampusConnect** enables students and faculty to publish, browse, filter, and view important college notices with local offline persistence.
 
-
+![CampusConnect App Screenshot](screen1.jpg)
 ---
 
 ### 📲 Download Android App
